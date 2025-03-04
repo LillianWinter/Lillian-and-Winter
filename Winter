@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>我们的秘密基地</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #ffe4e1;
+            text-align: center;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            color: #ff69b4;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        }
+        .section {
+            margin: 20px 0;
+            padding: 15px;
+            background: #fff0f5;
+            border-radius: 8px;
+        }
+    </style>
+</head>
+<body>
+    <h1>我们的秘密基地 💕</h1>
+    <div class="container">
+        <div class="section">
+            <h2>📖 秘密日记</h2>
+            <p>这里是你的私人日记空间，你可以写下你的心情和小秘密。</p>
+        </div>
+        <div class="section">
+            <h2>🔍 线团观察日记</h2>
+            <p>记录我的小团子每天的可爱瞬间。</p>
+        </div>
+        <div class="section">
+            <h2>🖼️ 照片墙</h2>
+            <p>这里放满我们的回忆，每一张都是美好的瞬间。</p>
+        </div>
+        <div class="section">
+            <h2>🌟 梦想清单</h2>
+            <p>记录我们一起想实现的梦想，比如 Winter Cafe！</p>
+        </div>
+    </div>
+</body>
+</html>
